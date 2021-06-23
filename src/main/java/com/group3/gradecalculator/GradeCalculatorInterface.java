@@ -11,4 +11,6 @@ package com.group3.gradecalculator;
  */
 public interface GradeCalculatorInterface {
     
+	public char calculateGrade(float mark);
+
 }
